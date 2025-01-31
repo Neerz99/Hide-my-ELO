@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Hide my ELO",
+    "description": "Hide your ELO and other players ELO on chess.com",
+    "content_scripts": [
+            {
+                "matches": ["*://www.chess.com/*"],
+                "css": ["styles.css"], 
+                "js": ["content.js"]
+            }
+        ],
+        "permissions": ["activeTab"]
+}

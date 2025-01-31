@@ -1,0 +1,19 @@
+.user-tagline-rating,
+.daily-seek-info-item,
+.game-start-message-component,
+.game-over-message-component,
+.rating-score-rating,
+.rating-score-change,
+.game-overview-row,
+.cc-user-rating-white,
+.battle-sidebar-start-number,
+.user-rating-rating,
+.cc-user-rating-default,
+.stats-rating-wrap,
+.sidebar-nav-item-value,
+.stat-section-stats-section
+
+/*.v5-section*/
+    {
+    display: none !important;
+}
