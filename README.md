@@ -4,7 +4,7 @@ A simple browser extension that hides most occurences of your and other players 
 
 WIP :
 
-- On/Off button to activate/deactive extension
+- On/Off button to activate/deactivate extension
 - Hide rating on other pages
 
 Currently working and tested for :
